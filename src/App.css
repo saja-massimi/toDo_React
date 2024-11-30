@@ -1,0 +1,28 @@
+.container1{
+ font-family: Arial, Helvetica, sans-serif;
+ color: #333;
+ text-align: center;
+}
+
+input{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    border: none;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    background-color: aliceblue;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+
+    height: 70vh;
+}
